@@ -1,0 +1,3 @@
+at the first we Using the NCEI API and then Collect All Data Points for 2018 In NYC (Various Stations) but unfortunately we faced The DataFrame is empty. No data was collected. i see the data is not there , we were
+decided in the next step create a dataframe with all this data. Notice there are multiple stations with values for each datatype on a given day. We don't know what the stations are, but we can look them up and add them to the data
+and then Save this data to a file and in the next step  write it to the database and in the final stage merging dataframes, we will also get the data mapping station IDs to information about the station.
